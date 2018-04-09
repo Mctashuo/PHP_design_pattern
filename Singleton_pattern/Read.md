@@ -1,4 +1,4 @@
-#THe Problem
+# THe Problem
 
 1. A Preferences object should be available to any object in your system.
 
@@ -12,14 +12,14 @@ both have access to the Preferences object).
 
 
 
-#Implementation
+# Implementation
 
 Singleton_pattern\preferences.php
 
 <img src="./singleton_pattern.jpg" />
 
 
-#Consequence
+# Consequence
 
 So, how does the Singleton approach compare to using a global variable? First, the bad news. Both
 Singletons and global variables are prone to misuse. Because Singletons can be accessed from anywhere

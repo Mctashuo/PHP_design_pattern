@@ -1,4 +1,4 @@
-#The problems
+# The problems
 
 1. I do not know until runtime the kind of object I need to produce
 (BloggsApptEncoder or MegaApptEncoder)
@@ -8,12 +8,12 @@ a new business deal away!)
 operations (e.g., getHeaderText(), getFooterText())
 
 
-#Implementation
+# Implementation
 
 <img src="factory_pattern.jpg" />
 
 
-#Consequences
+# Consequences
 
 Notice that the creator classes mirror the product hierarchy. This is a common consequence of the Factory
 Method pattern and disliked by some as a special kind of code duplication. Another issue is the possibility

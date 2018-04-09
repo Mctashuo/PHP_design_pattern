@@ -1,11 +1,11 @@
-#The Problem
+# The Problem
 
-#Implementation
+# Implementation
 
 <img src="AbstractFactoryPattern.jpg" />
 
 
-#consequences
+# consequences
 
 First, I decouple my system from the details of implementation. I can add or remove
 any number of encoding formats in my example without causing a knock-on effect.
